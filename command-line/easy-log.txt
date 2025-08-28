@@ -1,0 +1,12 @@
+=== EASY TASK LOG (Thu Aug 28 00:44:02 UTC 2025) ===
+PWD:
+/workspaces/linux-C-lab/command-line/command-line-easy
+
+ls:
+test.txt
+
+hello-copy.txt:
+Hello, Linux!
+
+test.txt:
+Test
