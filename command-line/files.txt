@@ -1,0 +1,6 @@
+total 12
+drwxrwxrwx+ 2 codespace codespace 4096 Aug 28 00:40 command-line-easy
+-rw-rw-rw-  1 codespace codespace  174 Aug 28 00:44 easy-log.txt
+-rw-rw-rw-  1 codespace codespace    0 Aug 28 01:06 files.txt
+-rw-rw-rw-  1 codespace codespace   14 Aug 28 00:37 hello-copy.txt
+-rw-------  1 codespace codespace    0 Aug 28 01:04 secret.txt
